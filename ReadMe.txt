@@ -1,0 +1,3 @@
+- A GUI made with DearPyGUI in Python. 
+- The client was the CEO of a small company who needed to keep track of their suppliers on their online marketplace.
+- The GUI is mostly just a user friendly way for the employees and the CEO to interact with the database but it also has some different features like a button to output key information into a PDF file.
